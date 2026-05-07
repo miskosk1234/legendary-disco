@@ -1,0 +1,7 @@
+import random
+tajne_zvieratko = "pes"
+tip = (input("uhadni domace zvieratko "))
+if tip == tajne_zvieratko:
+  print("vyhral si :)" )
+else:
+  print("nespravne nevadí")
